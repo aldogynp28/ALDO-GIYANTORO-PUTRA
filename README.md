@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm [Nama Kamu]
+# Hi there! 👋 I'm ALDO GIYANTORO PUTRA
 
 ## 🚀 About Me
 - 🔭 I'm currently working on...
 - 🌱 I'm currently learning...
 - 👯 I'm looking to collaborate on...
 - 💬 Ask me about...
-- 📫 How to reach me: [email/website]
+- 📫 How to reach me: -
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
