@@ -1,37 +1,31 @@
-# Hi there! 👋 I'm Aldo
+# Hi there! 👋 I'm Aldo Giyantoro Putra
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Open+Source+Contributor;Always+Learning;Welcome+to+My+Profile!&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000&color=F75C7E)
+🌐 **Portfolio:** [aldogynp28.github.io/ALDO-GIYANTORO-PUTRA](https://aldogynp28.github.io/ALDO-GIYANTORO-PUTRA/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aldogynp28&color=blue)
-![Visitor Count](https://profile-counter.glitch.me/aldogynp28/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=aldogynp28&color=blue&style=flat-square)
 
 ## 🚀 About Me
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🔭 I'm currently working on: Web Development
-- 🌱 I'm currently learning: React & Node.js
-- 👯 I'm looking to collaborate on: Open Source
-- 💬 Ask me about: JavaScript, Python
+- 🌱 I'm currently learning: JavaScript, React
+- 💬 Ask me about: HTML, CSS, JavaScript
 - 📫 How to reach me: email@kamu.com
 
 ## 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aldogynp28&theme=radical&hide_border=true)
+## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aldogynp28&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldogynp28&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=aldogynp28&theme=flat&column=4&margin-w=10&margin-h=10)
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldogynp28&theme=radical&area=true&hide_border=true)
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/aldogynp28/aldogynp28/blob/output/github-contribution-grid-snake.svg)
+## 🌐 My Portfolio
+[![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aldogynp28.github.io/ALDO-GIYANTORO-PUTRA/)
 
 ---
-⭐️ From [Aldo](https://github.com/aldogynp28)
+⭐️ From [Aldo Giyantoro Putra](https://github.com/aldogynp28)
