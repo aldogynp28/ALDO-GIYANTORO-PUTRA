@@ -18,7 +18,7 @@
 ![Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,github)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aldogynp28&theme=radical&hide_border=true)
 
