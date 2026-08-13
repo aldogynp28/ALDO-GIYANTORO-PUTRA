@@ -18,14 +18,14 @@
 ![Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,github)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical&hide_border=true)
+![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aldogynp28&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldogynp28&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldogynp28&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=aldogynp28&theme=radical&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aldogynp28&theme=flat&column=4&margin-w=10&margin-h=10)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldogynp28&theme=radical&area=true&hide_border=true)
