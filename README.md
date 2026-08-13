@@ -1,24 +1,37 @@
 # Hi there! 👋 I'm Aldo
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Open+Source+Contributor;Always+Learning;Welcome+to+My+Profile!&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000&color=F75C7E)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aldogynp28&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/aldogynp28/count.svg)
 
 ## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 I'm currently working on: Web Development
 - 🌱 I'm currently learning: React & Node.js
+- 👯 I'm looking to collaborate on: Open Source
 - 💬 Ask me about: JavaScript, Python
 - 📫 How to reach me: email@kamu.com
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,github)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldogynp28&show_icons=true&theme=radical&hide_border=true)
 
-## 🏆 Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aldogynp28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aldogynp28&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldogynp28&layout=compact&theme=radical&hide_border=true)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=aldogynp28&theme=radical&no-frame=true&row=1)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldogynp28&theme=radical&area=true&hide_border=true)
+
+## 🐍 Snake Animation
+![Snake animation](https://github.com/aldogynp28/aldogynp28/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ⭐️ From [Aldo](https://github.com/aldogynp28)
